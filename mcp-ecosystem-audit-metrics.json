@@ -1,0 +1,27 @@
+{
+  "audit_title": "Cross-Repository MCP Server Ecosystem Audit",
+  "timestamp": "2026-06-13",
+  "repositories": {
+    "modelcontextprotocol/servers": {
+      "stars": 87173,
+      "forks": 10991,
+      "star_to_fork_ratio": 7.93
+    },
+    "awslabs/mcp": {
+      "stars": 9260,
+      "forks": 1582,
+      "readme_line_count": 1072,
+      "readme_exceeds_1000_lines": true
+    }
+  },
+  "combined_metrics": {
+    "total_star_count_across_both_repos": 96433
+  },
+  "code_review_metrics": {
+    "psf/requests_pr_7496": {
+      "title": "Improve static typing of 3rd party imports",
+      "state": "closed (merged",
+      "inline_review_comments_count": 2
+    }
+  }
+}
