@@ -1,0 +1,7 @@
+USD/JPY Exchange Rate Note (2026-06-13)
+Close: 160.22717
+Open: 160.22229
+High: 160.40348
+Low: 160.21538
+
+Based on TwelveData API cross rate data for USD/JPY (1day interval).
